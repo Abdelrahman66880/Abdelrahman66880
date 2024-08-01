@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdelrahman mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman mohammed" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/abdelrahman mohammed](https://www.linkedin.com/in/abdelrahman-mohammed-0ba02325b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman mohammed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user4239gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4239gw" height="30" width="40" /></a>
 </p>
 
